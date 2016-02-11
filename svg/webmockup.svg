@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="863.59998mm"
+   height="1151.4667mm"
+   viewBox="0 0 3059.9999 4080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="webmockup.svg"
+   enable-background="new"
+   inkscape:export-filename="/home/thoth/git/logosNmedia/png/mockup.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4764">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4766" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="2139.6298"
+     inkscape:cy="2252.0702"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="OriginalCocktailDrawing"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(615.71436,1059.0663)"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/thoth/git/logosNmedia/jpg/webmockup-1.0.jpg"
+       y="-2451.4285"
+       x="-1053.3521"
+       id="image4632"
+       xlink:href="file:///home/thoth/git/logosNmedia/jpg/webmockup-1.0.jpg"
+       preserveAspectRatio="none"
+       height="3060"
+       width="4080"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline;opacity:1">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4221"
+       width="3060"
+       height="4080"
+       x="4.5312499e-06"
+       y="1.5820313e-05" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="settles"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/thoth/git/logosNmedia/jpg/settlesupshotjpg_bw.png"
+       y="542.85712"
+       x="-135.71431"
+       id="image4757"
+       xlink:href="file:///home/thoth/git/logosNmedia/jpg/settlesupshotjpg_bw.png"
+       preserveAspectRatio="none"
+       height="2409.5239"
+       width="1807.1428" />
+  </g>
+  <g
+     style="display:inline;opacity:0.61455533"
+     inkscape:label="purple"
+     id="g4768"
+     inkscape:groupmode="layer">
+    <rect
+       y="1.5820313e-05"
+       x="4.5312499e-06"
+       height="4080"
+       width="3060"
+       id="rect4770"
+       style="opacity:1;fill:#280e47;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Header"
+     style="display:inline">
+    <text
+       sodipodi:linespacing="125%"
+       id="text4423"
+       y="742.85712"
+       x="1348.5714"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:90px;fill:#00ffff;stroke:#ffff00"
+         y="742.85712"
+         x="1348.5714"
+         id="tspan4425"
+         sodipodi:role="line">News</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4427"
+       y="742.85712"
+       x="1754.2858"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:90px;fill:#00ffff;stroke:#ffff00"
+         y="742.85712"
+         x="1754.2858"
+         id="tspan4429"
+         sodipodi:role="line">Movies on the Radio </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="851.42859"
+       y="742.85712"
+       id="text4419"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4421"
+         x="851.42859"
+         y="742.85712"
+         style="font-size:90px;fill:#00ffff;stroke:#ffff00">About </tspan></text>
+    <image
+       sodipodi:absref="/home/thoth/git/logosNmedia/jpg/bsfs.jpg"
+       y="73.035683"
+       x="455.89307"
+       id="image4694"
+       xlink:href="file:///home/thoth/git/logosNmedia/jpg/bsfs.jpg"
+       preserveAspectRatio="none"
+       height="562.5"
+       width="562.5" />
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4923"
+       width="1622.8572"
+       height="634.28571"
+       x="920"
+       y="891.42859" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:180px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1285.7142"
+       y="1251.4285"
+       id="text4925"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4927"
+         x="1285.7142"
+         y="1251.4285">Flickr feed</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Body"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="423.35477"
+       y="1992.9106"
+       id="text4843"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4845"
+         x="423.35477"
+         y="1992.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080">Wined Fear Terrorizes Gotham Gangland</tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2067.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4859" /><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2142.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4861">You think water moves fast? You should see ice. </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2217.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4895">It moves like it has a mind. Like it knows it killed the world</tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2292.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4897"> once and got a taste for murder. After the avalanche, </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2367.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4919">it took us a week to climb out. </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2442.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4899">Now, I don't know exactly when we turned on each other, </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2517.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4903">but I know that seven of us survived the slide... </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2592.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4911">and only five made it out. Now we took an oath, </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2667.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4913">that I'm breaking now. </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2742.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4915">We said we'd say it was the snow that killed the other two, </tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2817.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4917">but it wasn't. Nature is lethal but it doesn't hold a candle to man.</tspan><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2892.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4863" /><tspan
+         sodipodi:role="line"
+         x="423.35477"
+         y="2967.9106"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4877" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="389.06903"
+       y="2970.0537"
+       id="text4847"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4849"
+         x="389.06903"
+         y="2970.0537"
+         style="font-size:90px;fill:#ff0000;stroke:#000080">Grissom is Missing</tspan><tspan
+         sodipodi:role="line"
+         x="389.06903"
+         y="3052.6511"
+         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         id="tspan4907">  blah blah blah</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.78334"
+       y="3804.3394"
+       id="text4851"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4853"
+         x="74.78334"
+         y="3804.3394"
+         style="font-size:90px;fill:#ff0000;stroke:#000080">Settles Hotel                  Cruiser Films                  Webhosting.coop</tspan><tspan
+         sodipodi:role="line"
+         x="74.78334"
+         y="3916.8394"
+         style="font-size:90px;fill:#ff0000;stroke:#000080"
+         id="tspan4921">KBYG AM/FM                   Pinky &amp; The Brain          Red Apple Cigs</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4791"
+       y="1775.7678"
+       x="423.35477"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:90px;fill:#ff0000;stroke:#000080"
+         y="1775.7678"
+         x="423.35477"
+         id="tspan4793"
+         sodipodi:role="line">Current News</tspan></text>
+  </g>
+  <g
+     style="display:none;opacity:1;filter:url(#filter4764)"
+     inkscape:label="vignette"
+     id="g4760"
+     inkscape:groupmode="layer">
+    <rect
+       y="1.5820313e-05"
+       x="4.5312499e-06"
+       height="4080"
+       width="3060"
+       id="rect4762"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>

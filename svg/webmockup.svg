@@ -10,19 +10,31 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="863.59998mm"
-   height="1151.4667mm"
-   viewBox="0 0 3059.9999 4080"
+   width="865.57556mm"
+   height="1153.4423mm"
+   viewBox="0 0 3067 4087.0001"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="webmockup.svg"
-   enable-background="new"
    inkscape:export-filename="/home/thoth/git/logosNmedia/png/mockup.png"
    inkscape:export-xdpi="30"
-   inkscape:export-ydpi="30">
+   inkscape:export-ydpi="30"
+   style="enable-background:new">
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4182">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4184" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4186" />
+    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -33,6 +45,25 @@
          in2="BackgroundImage"
          id="feBlend4766" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient4188"
+       x1="1640"
+       y1="3669.8574"
+       x2="1634.2858"
+       y2="3407.0002"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4182"
+       id="linearGradient4192"
+       gradientUnits="userSpaceOnUse"
+       x1="2951.3516"
+       y1="3553.085"
+       x2="-139.89586"
+       y2="3552.3936"
+       gradientTransform="matrix(0.07407842,0,0,4.9913872,2835.1323,-14524.471)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -42,8 +73,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="2139.6298"
-     inkscape:cy="2252.0702"
+     inkscape:cx="1038.4876"
+     inkscape:cy="2282.2851"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -51,11 +82,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -72,24 +103,25 @@
      inkscape:label="OriginalCocktailDrawing"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(615.71436,1059.0663)"
-     style="display:inline">
+     transform="translate(619.21436,1062.5663)"
+     style="display:none">
     <image
-       sodipodi:absref="/home/thoth/git/logosNmedia/jpg/webmockup-1.0.jpg"
-       y="-2451.4285"
-       x="-1053.3521"
-       id="image4632"
-       xlink:href="file:///home/thoth/git/logosNmedia/jpg/webmockup-1.0.jpg"
-       preserveAspectRatio="none"
-       height="3060"
+       sodipodi:absref="/mnt/unreal/git/BSFS-logosNmedia/svg/../jpg/webmockup-1.0.jpg"
+       xlink:href="../jpg/webmockup-1.0.jpg"
+       transform="matrix(0,1,-1,0,0,0)"
        width="4080"
-       transform="matrix(0,1,-1,0,0,0)" />
+       height="3060"
+       preserveAspectRatio="none"
+       id="image4632"
+       x="-1053.3521"
+       y="-2451.4285" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="background"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     transform="translate(3.4999955,3.4999842)">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4221"
@@ -102,22 +134,43 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="settles"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(3.4999955,3.4999842)">
     <image
-       sodipodi:absref="/home/thoth/git/logosNmedia/jpg/settlesupshotjpg_bw.png"
-       y="542.85712"
-       x="-135.71431"
-       id="image4757"
-       xlink:href="file:///home/thoth/git/logosNmedia/jpg/settlesupshotjpg_bw.png"
+       sodipodi:absref="/mnt/unreal/git/BSFS-logosNmedia/svg/../jpg/settlesupshotjpg_bw.png"
+       xlink:href="../jpg/settlesupshotjpg_bw.png"
+       width="2887.1428"
+       height="3849.5239"
        preserveAspectRatio="none"
-       height="2409.5239"
-       width="1807.1428" />
+       id="image4757"
+       x="134.28572"
+       y="-43.142883" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="gradient">
+    <rect
+       y="2252.7148"
+       x="2834.2856"
+       height="1550.5948"
+       width="224.92847"
+       id="rect4190"
+       style="opacity:1;fill:url(#linearGradient4192);fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4188);fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4180"
+       width="3036.3572"
+       height="276.30923"
+       x="-11.428572"
+       y="3395.5718" />
   </g>
   <g
      style="display:inline;opacity:0.61455533"
      inkscape:label="purple"
      id="g4768"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(3.4999955,3.4999842)">
     <rect
        y="1.5820313e-05"
        x="4.5312499e-06"
@@ -130,15 +183,16 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Header"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(3.4999955,3.4999842)">
     <text
        sodipodi:linespacing="125%"
        id="text4423"
        y="742.85712"
        x="1348.5714"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7300;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-size:90px;fill:#00ffff;stroke:#ffff00"
+         style="font-size:90px;fill:#ff7300;stroke:#ffff00;fill-opacity:1;"
          y="742.85712"
          x="1348.5714"
          id="tspan4425"
@@ -148,16 +202,16 @@
        id="text4427"
        y="742.85712"
        x="1754.2858"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7300;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-size:90px;fill:#00ffff;stroke:#ffff00"
+         style="font-size:90px;fill:#ff7300;stroke:#ffff00;fill-opacity:1;"
          y="742.85712"
          x="1754.2858"
          id="tspan4429"
          sodipodi:role="line">Movies on the Radio </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7300;fill-opacity:1;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="851.42859"
        y="742.85712"
        id="text4419"
@@ -166,18 +220,19 @@
          id="tspan4421"
          x="851.42859"
          y="742.85712"
-         style="font-size:90px;fill:#00ffff;stroke:#ffff00">About </tspan></text>
+         style="font-size:90px;fill:#ff7300;stroke:#ffff00;fill-opacity:1;">About </tspan></text>
     <image
-       sodipodi:absref="/home/thoth/git/logosNmedia/jpg/bsfs.jpg"
-       y="73.035683"
-       x="455.89307"
-       id="image4694"
-       xlink:href="file:///home/thoth/git/logosNmedia/jpg/bsfs.jpg"
-       preserveAspectRatio="none"
+       sodipodi:absref="/mnt/unreal/git/BSFS-logosNmedia/svg/../jpg/bsfs.jpg"
+       xlink:href="../jpg/bsfs.jpg"
+       style="fill:#000000;fill-opacity:0"
+       width="562.5"
        height="562.5"
-       width="562.5" />
+       preserveAspectRatio="none"
+       id="image4694"
+       x="455.89307"
+       y="73.035683" />
     <rect
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#ff730f;fill-opacity:0.94117647;stroke:#000073;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4923"
        width="1622.8572"
        height="634.28571"
@@ -199,10 +254,11 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Body"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(3.4999955,3.4999842)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff7300;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="423.35477"
        y="1992.9106"
        id="text4843"
@@ -211,75 +267,75 @@
          id="tspan4845"
          x="423.35477"
          y="1992.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080">Wined Fear Terrorizes Gotham Gangland</tspan><tspan
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;">Wined Fear Terrorizes Gotham Gangland</tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2067.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4859" /><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2142.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4861">You think water moves fast? You should see ice. </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2217.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4895">It moves like it has a mind. Like it knows it killed the world</tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2292.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4897"> once and got a taste for murder. After the avalanche, </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2367.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4919">it took us a week to climb out. </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2442.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4899">Now, I don't know exactly when we turned on each other, </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2517.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4903">but I know that seven of us survived the slide... </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2592.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4911">and only five made it out. Now we took an oath, </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2667.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4913">that I'm breaking now. </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2742.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4915">We said we'd say it was the snow that killed the other two, </tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2817.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4917">but it wasn't. Nature is lethal but it doesn't hold a candle to man.</tspan><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2892.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4863" /><tspan
          sodipodi:role="line"
          x="423.35477"
          y="2967.9106"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4877" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff7300;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="389.06903"
        y="2970.0537"
        id="text4847"
@@ -288,15 +344,15 @@
          id="tspan4849"
          x="389.06903"
          y="2970.0537"
-         style="font-size:90px;fill:#ff0000;stroke:#000080">Grissom is Missing</tspan><tspan
+         style="font-size:90px;fill:#ff7300;stroke:#000080;fill-opacity:1;">Grissom is Missing</tspan><tspan
          sodipodi:role="line"
          x="389.06903"
          y="3052.6511"
-         style="font-size:60px;fill:#ff0000;stroke:#000080"
+         style="font-size:60px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4907">  blah blah blah</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff7300;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="74.78334"
        y="3804.3394"
        id="text4851"
@@ -305,20 +361,20 @@
          id="tspan4853"
          x="74.78334"
          y="3804.3394"
-         style="font-size:90px;fill:#ff0000;stroke:#000080">Settles Hotel                  Cruiser Films                  Webhosting.coop</tspan><tspan
+         style="font-size:90px;fill:#ff7300;stroke:#000080;fill-opacity:1;">Settles Hotel                  Cruiser Films                  Webhosting.coop</tspan><tspan
          sodipodi:role="line"
          x="74.78334"
          y="3916.8394"
-         style="font-size:90px;fill:#ff0000;stroke:#000080"
+         style="font-size:90px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          id="tspan4921">KBYG AM/FM                   Pinky &amp; The Brain          Red Apple Cigs</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4791"
        y="1775.7678"
        x="423.35477"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff7300;fill-opacity:1;stroke:#000080;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-size:90px;fill:#ff0000;stroke:#000080"
+         style="font-size:90px;fill:#ff7300;stroke:#000080;fill-opacity:1;"
          y="1775.7678"
          x="423.35477"
          id="tspan4793"
@@ -328,7 +384,8 @@
      style="display:none;opacity:1;filter:url(#filter4764)"
      inkscape:label="vignette"
      id="g4760"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(3.4999955,3.4999842)">
     <rect
        y="1.5820313e-05"
        x="4.5312499e-06"
